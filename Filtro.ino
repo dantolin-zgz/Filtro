@@ -15,7 +15,7 @@ float Yk_1 = 0.0;
 int   i = 0;
 
 void setup() {
-  // put your setup code here, to run once:
+  // Inicilize parameters
   Serial.begin(2000000);
   pinMode(OUT, OUTPUT);
 }
